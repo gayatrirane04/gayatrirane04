@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello Gayatri here,
 
-<!--
-**gayatrirane04/gayatrirane04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hello everyone! I'm an undergraduate student and aspiring full-stack developer. I like to code and solve daily life problems and make stuff in easier .I like to deal with computer hardware as well ! Pursuing Degree from a Hardware Core branch but wanna be a HardCORE_Software Engineer !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ >🌱 *I’m currently learnin Backend stuffs and Database management*
+
+ >👯 *I am looking forward to a number of fantastic opportunities where I can demonstrate my abilities and pick up new knowledge.*
+
+ ## Experiences 🚴
+ - Worked on a **Bodymind** app based project 
+ 
+ - DevOps Intern , Worked on Linux  Operating system and production stuff 
+ 
+ - Contributed in Documentation of the above project  
+ 
+ - Designed Frontend in **Olympulse** website
+ 
+ - Designed pages using Figma !
+
+ 
