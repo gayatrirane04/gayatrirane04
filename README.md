@@ -1,6 +1,6 @@
 ### Hello Gayatri here,
 
- Hello everyone! I'm an undergraduate student and aspiring full-stack developer. I like to code and solve daily life problems and make stuff in easier .I like to deal with computer hardware as well ! Pursuing Degree from a Hardware Core branch but wanna be a HardCORE_Software Engineer !
+ Hello everyone! I'm an undergraduate student and aspiring full-stack developer. I like to code, solve daily life problems, and make stuff easier. I like to deal with computer hardware as well! Pursuing a degree from the Hardware Core branch but wanna be a HardCORE_Software Engineer!
 
 
  >🌱 *I am looking forward to a number of fantastic opportunities where I can demonstrate my abilities and pick up new knowledge.*
