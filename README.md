@@ -16,7 +16,7 @@
  
  - Designed pages using Figma !
 
-##Skills_
+## Skills_
 >HTML , CSS ,JS
 
 >C , C++
