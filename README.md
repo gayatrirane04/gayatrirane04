@@ -30,7 +30,7 @@
 >XML , Figma ,Linux
 
 ## Links & Accounts 
->[linkeIn](https://www.linkedin.com/in/gayatri-rane-277883252)
+>[linkedIn](https://www.linkedin.com/in/gayatri-rane-277883252)
 
 >[Instagram](gayouu_11)
 
