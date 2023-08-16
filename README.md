@@ -16,4 +16,11 @@
  
  - Designed pages using Figma !
 
- 
+##Skills_
+>HTML , CSS ,JS
+>C , C++
+>MySQL ,SOL
+>Development_Webdevelopment
+> Hands-on experience on Android Studio
+>XML , Figma ,Linux
+
