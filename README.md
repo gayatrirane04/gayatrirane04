@@ -21,13 +21,15 @@
 
 >C , C++
 
->MySQL ,SOL
+>MySQL ,NOSOL
 
 >Development_Webdevelopment
 
 > Hands-on experience on Android Studio
 
->XML , Figma ,Linux
+> XML & Figma 
+
+> YAML ,Linux
 
 ## Links & Accounts 
 >[linkedIn](https://www.linkedin.com/in/gayatri-rane-277883252)
