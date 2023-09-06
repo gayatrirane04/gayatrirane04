@@ -19,9 +19,13 @@
 ## Skills_
 >HTML , CSS ,JS
 
+>Bootstrap
+
 >C , C++
 
->MySQL ,NOSOL
+>MySQL , SQL
+
+>Mongodb
 
 >Development_Webdevelopment
 
