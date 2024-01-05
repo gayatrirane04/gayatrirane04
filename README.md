@@ -16,6 +16,8 @@
  
  - Designed pages using Figma !
 
+ - Made games using above skills
+
 ## Skills_
 >HTML , CSS ,JS
 
