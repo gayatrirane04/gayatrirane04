@@ -23,7 +23,11 @@
 
 >Bootstrap
 
+> DSA C++ , 4 star on Hackerrank!
+
 >C , C++
+
+> Python(Moderate scale)
 
 >MySQL , SQL
 
