@@ -37,7 +37,7 @@
 
 > Hands-on experience on Android Studio
 
-> XML & Figma 
+> XML , Figma ,Canva 
 
 > YAML ,Linux
 
