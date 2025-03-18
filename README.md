@@ -19,7 +19,7 @@
  - Made games using above skills
 
 ## Skills_
->HTML , CSS ,JS
+>HTML , CSS ,JS , Nextjs , TypeScript , MERN 
 
 >Bootstrap
 
