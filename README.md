@@ -23,7 +23,7 @@
 
 >Bootstrap
 
-> DSA C++ , 4 star on Hackerrank!
+> DSA C++ , Python, 5 star on Hackerrank!
 
 >C , C++
 
